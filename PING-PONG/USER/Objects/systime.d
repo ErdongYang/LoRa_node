@@ -1,0 +1,9 @@
+.\objects\systime.o: ..\SX1278\system\systime.c
+.\objects\systime.o: D:\STM32\keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\systime.o: ..\SX1278\boards\rtc-board.h
+.\objects\systime.o: D:\STM32\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\systime.o: D:\STM32\keil\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\systime.o: ..\SX1278\system\timer.h
+.\objects\systime.o: D:\STM32\keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\systime.o: ..\SX1278\system\systime.h
+.\objects\systime.o: D:\STM32\keil\ARM\ARMCC\Bin\..\include\time.h

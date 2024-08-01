@@ -1,0 +1,16 @@
+.\objects\sx1276mb1las-board.o: ..\SX1278\boards\NucleoL476\sx1276mb1las-board.c
+.\objects\sx1276mb1las-board.o: D:\STM32\keil\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\sx1276mb1las-board.o: ..\SX1278\boards\utilities.h
+.\objects\sx1276mb1las-board.o: D:\STM32\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\sx1276mb1las-board.o: ..\SX1278\boards\NucleoL476\board-config.h
+.\objects\sx1276mb1las-board.o: ..\SX1278\system\delay.h
+.\objects\sx1276mb1las-board.o: ..\SX1278\radio\radio.h
+.\objects\sx1276mb1las-board.o: D:\STM32\keil\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\sx1276mb1las-board.o: ..\SX1278\boards\sx1276-board.h
+.\objects\sx1276mb1las-board.o: ..\SX1278\radio\sx1276/sx1276.h
+.\objects\sx1276mb1las-board.o: ..\SX1278\system\gpio.h
+.\objects\sx1276mb1las-board.o: ..\SX1278\boards\pinName-board.h
+.\objects\sx1276mb1las-board.o: ..\SX1278\boards\pinName-ioe.h
+.\objects\sx1276mb1las-board.o: ..\SX1278\system\spi.h
+.\objects\sx1276mb1las-board.o: ..\SX1278\radio\sx1276/sx1276Regs-Fsk.h
+.\objects\sx1276mb1las-board.o: ..\SX1278\radio\sx1276/sx1276Regs-LoRa.h

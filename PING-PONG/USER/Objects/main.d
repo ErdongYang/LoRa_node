@@ -1,0 +1,14 @@
+.\objects\main.o: main.c
+.\objects\main.o: D:\STM32\keil\ARM\ARMCC\Bin\..\include\string.h
+.\objects\main.o: ..\SX1278\boards\board.h
+.\objects\main.o: D:\STM32\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: ..\SX1278\boards\utilities.h
+.\objects\main.o: ..\SX1278\system\gpio.h
+.\objects\main.o: ..\SX1278\boards\pinName-board.h
+.\objects\main.o: ..\SX1278\boards\pinName-ioe.h
+.\objects\main.o: ..\SX1278\system\delay.h
+.\objects\main.o: ..\SX1278\system\timer.h
+.\objects\main.o: D:\STM32\keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\main.o: D:\STM32\keil\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\main.o: ..\SX1278\radio\radio.h
+.\objects\main.o: D:\STM32\keil\ARM\ARMCC\Bin\..\include\stdio.h

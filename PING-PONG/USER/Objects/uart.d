@@ -1,0 +1,9 @@
+.\objects\uart.o: ..\SX1278\system\uart.c
+.\objects\uart.o: ..\SX1278\boards\uart-board.h
+.\objects\uart.o: D:\STM32\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\uart.o: ..\SX1278\system\uart.h
+.\objects\uart.o: ..\SX1278\system\fifo.h
+.\objects\uart.o: D:\STM32\keil\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\uart.o: ..\SX1278\system\gpio.h
+.\objects\uart.o: ..\SX1278\boards\pinName-board.h
+.\objects\uart.o: ..\SX1278\boards\pinName-ioe.h
